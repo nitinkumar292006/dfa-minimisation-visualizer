@@ -23,21 +23,34 @@
 
 ---
 
-# 🧠 What is DFA Minimization?
+## 📁 Project Structure
 
-DFA Minimization is the process of reducing the number of states in a DFA **without changing the language it accepts**.
+```bash
+DFA-Minimizer-Visualizer/
+│
+├── index.html        # Main UI structure
+├── style.css         # Styling (UI design)
+├── script.js         # Core logic (DFA + Algorithms + Visualization)
+│
+└── README.md         # Documentation
 
-### It removes:
-- Equivalent states
-- Unreachable states
+```
 
-### Result:
-- Smaller DFA
-- Same behavior (language preserved)
+## ⚙️ How to Run the Project
+
+Follow these steps to run the project on your system 👇
+
+### 1️⃣ Download / Clone Project
+
+```bash
+git clone https://github.com/your-username/dfa-minimizer-visualizer.git
+```
+
+### 2 Open index.html in your browser
 
 ---
 
-# ⚙️ How to Use (Step-by-Step)
+# ⚙️ How to Use the WebApp (Step-by-Step)
 
 ## 🧪 Example Walkthrough
 
